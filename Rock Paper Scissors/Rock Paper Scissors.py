@@ -56,6 +56,7 @@ if __name__=="__main__":
     print("You have a choice of \n -ROCK \n -SCISSORS \n -PAPER")
     play= input('Enter a choice from above - ').lower()
     game(play)
+    
 
 
 
